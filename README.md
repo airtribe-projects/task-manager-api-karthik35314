@@ -16,7 +16,7 @@ A simple RESTful API for managing tasks using Node.js, Express.js, and in-memory
 1. Clone or unzip the project.
 2. Navigate to the project folder:
    ```bash
-   cd task-api
+   cd task-manager-api-karthik35314
    ```
 3. Install dependencies:
    ```bash
